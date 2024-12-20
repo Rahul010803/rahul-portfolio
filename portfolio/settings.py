@@ -135,5 +135,5 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = ''  # Replace with your email
-EMAIL_HOST_PASSWORD = ''  #'ivwrudpknidxckf'  # Replace with your email password
+EMAIL_HOST_PASSWORD = ''  # Replace with your email password
 EMAIL_RECIPIENT = ''  # The email address where contact form submissions will be sent
